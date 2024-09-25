@@ -1,4 +1,4 @@
-# Mckay's Notes App
+# Notes App Starter
 
 This is a full-stack app template for courses on [Takeoff](https://JoinTakeoff.com/).
 
